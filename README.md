@@ -1,4 +1,3 @@
-# ForenX0X
 # ForenX0X - CTF Forensics Automation Toolkit
 
 ### Created by Gersi Hajrullahi
