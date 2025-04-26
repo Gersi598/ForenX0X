@@ -5,6 +5,7 @@
 ---
 
 ## About
+P.S. The Project is ongoing a continuous improvement phase and it is not in its final version
 
 **ForenX0X** is an advanced forensic automation tool tailored for **Capture The Flag (CTF)** challenges.  
 It automatically analyzes files for hidden flags using steganography, document analysis, network forensics, and more.
