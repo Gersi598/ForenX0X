@@ -1,0 +1,7 @@
+Pillow
+opencv-python
+pytesseract
+fpdf
+numpy
+scikit-learn
+tk
